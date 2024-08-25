@@ -62,12 +62,8 @@ height: 200px;
 }
 
 .categoria-videos img:hover{
-opacity:1.0px;
-b
-
-
-
-order: 1px solid rgb(185, 141, 255);
+opacity:1px;
+border: 1px solid rgb(185, 141, 255);
 
 }
 
